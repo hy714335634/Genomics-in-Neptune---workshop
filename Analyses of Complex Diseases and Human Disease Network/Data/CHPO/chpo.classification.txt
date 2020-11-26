@@ -1,0 +1,27 @@
+所属术语	主分类(英)	主分类(译名)
+表型异常	Abnormality of connective tissue	结缔组织异常
+表型异常	Abnormality of the voice	声音异常
+表型异常	Abnormality of the nervous system	神经系统异常
+表型异常	Abnormality of the breast	乳房异常
+表型异常	Abnormality of the eye	眼部异常
+表型异常	Abnormality of prenatal development or birth	胎儿产前发育或出生异常
+表型异常	Neoplasm	肿瘤
+表型异常	Abnormality of the endocrine system	内分泌系统异常
+表型异常	Abnormality of head and neck	头部和颈部的异常
+表型异常	Abnormality of the immune system	免疫系统异常
+表型异常	Growth abnormality	生长异常
+表型异常	Abnormality of limbs	肢体异常
+表型异常	Abnormality of the thoracic cavity	胸腔异常
+表型异常	Abnormality of blood and blood-forming tissues	血液和造血组织异常
+表型异常	Abnormality of the musculature	肌肉组织异常
+表型异常	Abnormality of the cardiovascular system	心血管系统异常
+表型异常	Abnormality of the skeletal system	骨骼系统异常
+表型异常	Abnormality of the respiratory system	呼吸系统异常
+表型异常	Abnormality of the ear	耳部异常
+表型异常	Abnormality of metabolism/homeostasis	代谢紊乱/稳态失衡
+表型异常	Abnormality of the genitourinary system	泌尿生殖系统异常
+表型异常	Abnormality of the integument	体壁的异常
+表型异常	Abnormality of the digestive system	消化系统异常
+遗传模式	Mode of inheritance	遗传模式
+死亡/衰老	Mortality/Aging	死亡/衰老
+临床调节因素	Clinical modifier	临床调节因素
